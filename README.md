@@ -181,4 +181,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para
 
 ---
 
-Desarrollado con ❤️ por [jcgmU](https://github.com/jcgmU)
+Desarrollado con ❤️ por [jcgmU](https://github.com/jcgmU) 🐻❤️🐰
