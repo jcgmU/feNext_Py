@@ -2,8 +2,6 @@
 
 Este proyecto es una aplicación de gestión de tareas (Task Manager) desarrollada con Next.js, parte de una arquitectura completa con backend implementado en Django usando Clean Architecture.
 
-![Task Manager Screenshot](https://via.placeholder.com/800x400?text=Task+Manager+App)
-
 ## 🌟 Características
 
 - **Gestión completa de tareas**:
