@@ -169,10 +169,6 @@ Para despliegue en producción se recomienda:
 2. Usar un servidor Node.js o exportar como estático
 3. Configurar variables de entorno para la URL de la API
 
-## 📝 Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## 👥 Contribución
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerir cambios o mejoras.
